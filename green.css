@@ -1,0 +1,33 @@
+:root{
+	--mainColor:#606B56;
+	--secondaryColor:#515a48;
+
+	--borderColor:#161914;
+
+	--mainText:#c3d1b6;
+	--secondaryText:#d2dcc8;
+
+	--themeDotBorder:#d2dcc8;
+
+	--previewBg:rgb(81, 90, 72, 0.8);
+	--previewShadow:#2a2f25;
+
+
+	--buttonColor:#2a2f25;
+
+
+}
+.post-preview{
+	background-color: #b4c5a4;
+	padding:15px;
+}
+
+.post-title{
+	color:black;
+	margin: 0;
+}
+
+.post-intro{
+	color:#4b5156;
+	font-size: 14px;
+}
